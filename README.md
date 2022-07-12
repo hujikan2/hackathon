@@ -5,6 +5,6 @@ Hello Perkenalkan Nama Saya **Rizal Aditya**.<br>
 Saya berpartisipasi dalam mengikuti **Hackthon Data Fair** yang diselenggarakan oleh **Hacktiv8 Indonesia**
 
 ---
-## Project 1
-<br>
-Judul : **Costumer Prediction using machine learning**
+## Project 1 <br>
+
+**Costumer Prediction using machine learning**
