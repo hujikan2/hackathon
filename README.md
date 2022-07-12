@@ -1,6 +1,6 @@
 # Hackthon Data Fair
 Hello Perkenalkan Nama Saya **Rizal Aditya**.<br> 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adhangmuntaha/)](https://www.linkedin.com/in/rzladitya/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rzladitya/)](https://www.linkedin.com/in/rzladitya/)
 [![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hujikan2)](https://github.com/hujikan2)<br><br>
 Saya berpartisipasi dalam mengikuti **Hackthon Data Fair** yang diselenggarakan oleh **Hacktiv8 Indonesia**
 
@@ -31,3 +31,7 @@ Most people who want to invest or just want to know the movement of crypto price
 
 ## Task
 Therefore I want to create a model with an LSTM architecture that can predict bitcoin movements for the next 60 days. The model I made has a very small loss and an accuracy of 97%.
+
+---
+Deploy soon!!
+[![Heroku](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fheroku_logo_icon_168126.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Fid%2Ficon%2Fheroku-logo%2F168126&tbnid=widVfvBk2lS8aM&vet=12ahUKEwiU4rj1u_P4AhXTzKACHYDUAYIQMygEegUIARCzAQ..i&docid=gCFRAtuTunexxM&w=512&h=512&q=badge%20heroku&ved=2ahUKEwiU4rj1u_P4AhXTzKACHYDUAYIQMygEegUIARCzAQ)](https://www.heroku.com)
