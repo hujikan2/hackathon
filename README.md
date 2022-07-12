@@ -20,3 +20,14 @@ As a data scientist, we will help activists who hold events to increase profits 
 With the help of computers, we will create machine learning models that can predict whether customers who come to the event will buy the products that we show at the event.
 
 what are you waiting for, let's create a machine learning model that can increase the profit performance of these events. Ⓜ
+
+---
+## Project 2 <br>
+
+**BTC Price Predictor**
+
+## Context
+Most people who want to invest or just want to know the movement of crypto prices, especially Bitcoin (BTC) are still confused about bitcoin price movements going forward. So I try to make an idea where will the bitcoin price move for the next 60 days?
+
+## Task
+Therefore I want to create a model with an LSTM architecture that can predict bitcoin movements for the next 60 days. The model I made has a very small loss and an accuracy of 97%.
