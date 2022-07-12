@@ -34,4 +34,4 @@ Therefore I want to create a model with an LSTM architecture that can predict bi
 
 ---
 Deploy soon!!
-[![Heroku][(https://www.google.com/imgres?imgurl=https%3A%2F%2Fpics.freeicons.io%2Fuploads%2Ficons%2Fpng%2F19533137001579517850-512.png&imgrefurl=https%3A%2F%2Ffreeicons.io%2Fchat-icons%2Fheroku-icon-28522&tbnid=WDRU_JBHiRIUnM&vet=12ahUKEwiU4rj1u_P4AhXTzKACHYDUAYIQMygmegUIARD8AQ..i&docid=IXVK_0bbljS6ZM&w=512&h=512&itg=1&q=badge%20heroku&ved=2ahUKEwiU4rj1u_P4AhXTzKACHYDUAYIQMygmegUIARD8AQ)](https://www.heroku.com)
+[![Heroku](https://img.shields.io/badge/heroku-121011?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
