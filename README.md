@@ -20,8 +20,6 @@ A customer event is a good place to emphasize the latest biggest achievements, p
 As a data scientist, we will help activists who hold events to increase profits from selling products that are exhibited at the event.
 With the help of computers, we will create machine learning models that can predict whether customers who come to the event will buy the products that we show at the event.
 
-what are you waiting for, let's create a machine learning model that can increase the profit performance of these events. Ⓜ
-
 ---
 ## Project 2 <br>
 [**PROJECT**](https://github.com/hujikan2/hackathon/blob/main/btc_prediction.ipynb)
