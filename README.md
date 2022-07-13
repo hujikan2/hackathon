@@ -6,6 +6,7 @@ Saya berpartisipasi dalam mengikuti **Hackathon Data Fair** yang diselenggarakan
 
 ---
 ## Project 1 <br>
+[**PROJECT**](https://github.com/hujikan2/hackathon/blob/main/firts_data_Rizal_Aditya.ipynb)
 
 **Costumer Prediction using machine learning**
 
