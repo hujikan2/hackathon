@@ -26,7 +26,7 @@ what are you waiting for, let's create a machine learning model that can increas
 ## Project 2 <br>
 
 **BTC Price Predictor**
-[**PROJECT**](https://github.com/hujikan2/hackathon/blob/main/btc_prediction.ipynb)
+/ [**PROJECT**](https://github.com/hujikan2/hackathon/blob/main/btc_prediction.ipynb)
 
 ## Context
 Most people who want to invest or just want to know the movement of crypto prices, especially Bitcoin (BTC) are still confused about bitcoin price movements going forward. So I try to make an idea where will the bitcoin price move for the next 60 days?
