@@ -35,5 +35,5 @@ Most people who want to invest or just want to know the movement of crypto price
 Therefore I want to create a model with an LSTM architecture that can predict bitcoin movements for the next 60 days. The model I made has a very small loss and an accuracy of 97%.
 
 ---
-Deploy soon!!
+Deploy soon!! on 👇 <br>
 [![Heroku](https://img.shields.io/badge/heroku-121011?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
